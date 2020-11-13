@@ -1,8 +1,5 @@
 .app {
   height: 100vh;
-  background-image: url('./assets/marble.jpg');
-  background-size: cover;
-  background-position: center;
 }
 
 .container {
